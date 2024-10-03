@@ -78,6 +78,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For any inquiries or feedback, please contact:
 
-- **Name**: Your Name
-- **Email**: your.email@example.com
+- **Name**: Mohamed Amine Ben Lajdel
+- **Email**: belajdelmedamine@gmail.com
 - **GitHub**: belajdel
