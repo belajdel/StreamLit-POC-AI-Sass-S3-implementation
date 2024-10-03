@@ -1,4 +1,4 @@
-# <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*rNad1bZN9ke6sWwr.png" alt="Logo" width="40%" height=70px/>
+# <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*rNad1bZN9ke6sWwr.png" alt="Logo" width="40%" height=250px/>
   StreamLit-POC-AI-Sass-S3-implementation
 
 ## Description
